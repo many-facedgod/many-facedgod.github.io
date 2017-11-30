@@ -1,1 +1,4 @@
-theme: jekyll-theme-tactile
+name: Tactile Theme
+markdown: redcarpet
+pygments: true
+permalink: pretty
