@@ -23,6 +23,7 @@ github_username:  many-facedgod
 github_url: https://github.com/many-facedgod
 resume_url: Resume.pdf
 creative_url: http://blog.polyartfactory.com/
+tech_url: /tech/
 
 # Build settings
 markdown: kramdown
