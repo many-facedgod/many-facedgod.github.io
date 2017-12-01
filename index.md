@@ -21,4 +21,5 @@ ___
 * [Automatic Music-Tagging](https://github.com/many-facedgod/Music-Tagger): A multi-scale CNN for music tagging, written over Totem (see above). Paper accepted into SocPros 2017. :)
 * [Decision Trees, AdaBoost, Random Forests](https://github.com/many-facedgod/Decision-Trees): ID3 and a couple of ensemble methods, written in Java.
 * [Relevance Propagation in Neural Networks](https://github.com/many-facedgod/Relevance-Prop): A quick implementation of Sebastian Bach's [Pixel-wise relevance propagation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498753/) that I did overnight.
+* [Vehicle Detection and Classification](https://github.com/many-facedgod/Vehicle-Detection-and-Classification): Detecting and classifying (into heavy and light) vehicles from an unprocessed video of an Indian highway.
 * [FP Trees](https://github.com/many-facedgod/FPTrees): A Java implementation of the FP Growth algorithm.
