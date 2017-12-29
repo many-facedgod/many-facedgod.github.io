@@ -14,7 +14,7 @@ ___
 
 # Past Projects
 
-
+* [GEMM-based Atrous Convolutions](https://github.com/many-facedgod/Numpy-GEMM-based-Atrous-CNN): A reference GEMM-based implementation of general dilated convolutions (forward and backward passes) using pure Numpy.
 * [Bezier Curves](https://github.com/many-facedgod/Bezier-Drawing): Implemented de Casteljau's algorithm over OpenGL for as an interactive application.
 * [Neuro-Evolution of Augmenting Topologies](https://github.com/many-facedgod/NEAT-RL): A python implementation of the NEAT algorithm for reinforcement learning.
 * [Totem](https://github.com/many-facedgod/Totem): A library that facilitates easy neural network creation using Theano. Abandoned since the developement of Theano itself has ceased.
