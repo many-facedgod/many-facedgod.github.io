@@ -2,7 +2,7 @@
 layout: default
 ---
 <img style="float: right;" src="assets/images/ProfilePic.png" height="140" width="140">
-I am a master's student at Carnegie Mellon University, School of Computer Science, majoring in Computer Science. My interests span a wide range, from artificial intelligence and machine learning to creative writing and sketching. I'm particularly interested in the application of AI in natural language processing and computer vision. Recently, I have also acquired a taste for computer graphics and image processing.
+I am a master's student at Carnegie Mellon University, School of Computer Science, majoring in Computer Science. My interests span a wide range, from artificial intelligence and machine learning to creative writing and sketching. I'm particularly interested in the application of AI in natural language processing and computer vision. Recently, I have also acquired a taste for computer graphics and image processing. Make sure you also check the fine arts and creative writing blog that I maintain [here](https://blog.polyartfactory.com/)! :)
 
 ___
 
