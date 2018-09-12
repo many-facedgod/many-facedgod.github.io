@@ -2,15 +2,9 @@
 layout: default
 ---
 <img style="float: right;" src="assets/images/ProfilePic.png" height="140" width="140">
-I am a final year undergrad student at Birla Institute of Technology and Science (BITS Pilani), Hyderabad Campus, India, majoring in Computer Science. My interests span a wide range, from artificial intelligence and machine learning to creative writing and sketching. I'm particularly interested in the application of AI in natural language processing and computer vision. Recently, I have also acquired a taste for computer graphics and image processing.
+I am a master's student at Carnegie Mellon University, School of Computer Science, majoring in Computer Science. My interests span a wide range, from artificial intelligence and machine learning to creative writing and sketching. I'm particularly interested in the application of AI in natural language processing and computer vision. Recently, I have also acquired a taste for computer graphics and image processing.
 
 ___
-
-# Current Projects
-
-
-* [Cloth Simulation](https://github.com/many-facedgod/Energy-Based-Cloth-Simulation): Implementing Baraff & Witkin's "Large Steps in Cloth Simulation" without the assumptions mentioned in the paper.
-* A sequel to [Cancer](http://blog.polyartfactory.com/2017/07/cancer.html) :)
 
 # Past Projects
 
@@ -23,3 +17,5 @@ ___
 * [Relevance Propagation in Neural Networks](https://github.com/many-facedgod/Relevance-Prop): A quick implementation of Sebastian Bach's [Pixel-wise relevance propagation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498753/) that I did overnight.
 * [Vehicle Detection and Classification](https://github.com/many-facedgod/Vehicle-Detection-and-Classification): Detecting and classifying (into heavy and light) vehicles from an unprocessed video of an Indian highway.
 * [FP Trees](https://github.com/many-facedgod/FPTrees): A Java implementation of the FP Growth algorithm.
+* [Cloth Simulation](https://github.com/many-facedgod/Energy-Based-Cloth-Simulation): Implementing Baraff & Witkin's "Large Steps in Cloth Simulation" without the assumptions mentioned in the paper.
+
