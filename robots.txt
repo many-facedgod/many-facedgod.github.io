@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://many-facedgod.github.io/sitemap.xml
+Sitemap: https://www.vanillabug.com/sitemap.xml
